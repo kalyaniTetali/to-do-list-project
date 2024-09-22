@@ -135,15 +135,15 @@ li {
 }
   /* Style for the delete (X) button */
 .deleteBtn {
-  color: red;          /* Red color for the X button */
-  background: none;    /* No background for the button */
-  border: none;        /* Remove border */
-  font-size: 18px;     /* Adjust font size for the X */
-  cursor: pointer;     /* Change cursor to pointer on hover */
-  margin-left: 10px;   /* Add some spacing between the text and the X button */
+  color: red;          
+  background: none;    
+  border: none;      
+  font-size: 18px;    
+  cursor: pointer;     
+  margin-left: 10px;   
 }
 
-/* Style for the X button on hover */
+
 .deleteBtn:hover {
-  color: darkred;      /* Darker red on hover for better UX */
+  color: darkred;      
 }
