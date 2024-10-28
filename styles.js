@@ -1,5 +1,5 @@
 
-/*// Selecting form and task list elements
+// Selecting form and task list elements
 const form = document.querySelector('.form');
 const taskInput = document.querySelector('#todo');
 const taskList = document.querySelector('#taskList');
@@ -44,4 +44,4 @@ form.addEventListener('submit', function(event) {
 
   // Clear the input field
   taskInput.value = '';
-});*/
+});
