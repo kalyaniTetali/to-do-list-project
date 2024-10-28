@@ -1,9 +1,10 @@
-// Selecting form and task list elements
+
+/*// Selecting form and task list elements
 const form = document.querySelector('.form');
 const taskInput = document.querySelector('#todo');
 const taskList = document.querySelector('#taskList');
 
-// Function to add a new task
+ //Function to add a new task
 form.addEventListener('submit', function(event) {
   event.preventDefault(); // Prevent form from submitting
 
@@ -43,4 +44,4 @@ form.addEventListener('submit', function(event) {
 
   // Clear the input field
   taskInput.value = '';
-});
+});*/
